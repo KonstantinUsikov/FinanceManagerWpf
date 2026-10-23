@@ -1,0 +1,7 @@
+{
+  "Host": "localhost",
+  "Port": 5432,
+  "Database": "finance_manager",
+  "Username": "postgres",
+  "Password": "your_password"
+}
